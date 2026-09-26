@@ -1,0 +1,2 @@
+# rekretaWEB
+KRÉTA weboldalas kliens
